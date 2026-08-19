@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试复盘"
+  short_description: "把面试录音转写分析成逐题对照的Word复盘文档，支持多场累积"
+  default_prompt: "帮我复盘这场面试，录音转写如下："
