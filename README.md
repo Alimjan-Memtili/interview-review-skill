@@ -29,7 +29,7 @@
 
 ```
 skills/
-└── interview-review/
+└── interview-review/               # 克隆后重命名（或直接 git clone 到此名）
     ├── SKILL.md                    # 工作流与纪律
     ├── agents/openai.yaml          # 接口定义
     ├── references/
